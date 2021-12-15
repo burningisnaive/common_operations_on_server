@@ -17,7 +17,7 @@ passwd new_user
 
 ## add public key for ssh
 + add corresponding file as you like
-+ copy from admin's file and set owner, right (recommended)
++ copy from admin's file and set owner's right (recommended)
     ```
     cp -r /home/mclab/.ssh /home/new_user/
     chown -R new_user:new_user /home/new_user/.ssh #as the files are copied, the owner is still root
