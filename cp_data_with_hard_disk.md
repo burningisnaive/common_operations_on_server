@@ -16,12 +16,12 @@ sudo -s # if you have admin's right
 ```
 
 ## check the harddisks connected to the server
-+ fsidk -l (-u)
++ fdisk -l (-u)
 + lsblk
 
 notes:
 + both commands can works
-+ you may recognize your harddisk with its capability or compare the output with mounted disks(df -h)
++ you may recognize your harddisk with its capability or by comparing the output of fdisk/lsblk with mounted disks(df -h)
 
 ## make a new directory and mount your harddisk
 ```
