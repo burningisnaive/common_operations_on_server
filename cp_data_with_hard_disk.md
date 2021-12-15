@@ -33,5 +33,5 @@ note:
 If the file system of harddisk wasn't safely closed on Windows, mount could fail.
 In this situation, use lsblk to find the block of your harddisk, and mount the block.
 
-## you can visit your harddisk the the directory new_dir
+## you can visit your harddisk with the the directory new_dir
 Play around as you like
