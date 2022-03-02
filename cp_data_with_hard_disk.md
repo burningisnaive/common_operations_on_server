@@ -1,4 +1,4 @@
-# copy data from/to server with your mobile harddidk
+# copy data from/to server with your mobile harddisk
 If you find errors or better ways, I would appreciate your feedback.
 
 ## check information about server
